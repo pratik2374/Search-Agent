@@ -14,13 +14,13 @@ This Python application allows users to enter their Groq API and query. The appl
     ```bash
     git clone https://github.com/yourusername/groq-api-query-app.git
     ```
-2. Navigate to the project directory:
-    ```bash
-    cd groq-api-query-app
-    ```
-3. Install the required dependencies:
+2. Install the required dependencies:
     ```bash
     pip install -r requirements.txt
+    ```
+3. Run the project:
+    ```bash
+    python app.py
     ```
 
 ## Usage
